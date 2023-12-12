@@ -1,0 +1,15 @@
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\bin\Debug\net6.0\Test work on the main block.exe
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\bin\Debug\net6.0\Test work on the main block.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\bin\Debug\net6.0\Test work on the main block.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\bin\Debug\net6.0\Test work on the main block.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\bin\Debug\net6.0\Test work on the main block.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\refint\Test work on the main block.dll
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\Test work on the main block.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Рабочий стол\Курсы\Homeworks\Test work on the main block\obj\Debug\net6.0\ref\Test work on the main block.dll

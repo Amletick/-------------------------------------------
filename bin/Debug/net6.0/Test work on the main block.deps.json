@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Test work on the main block/1.0.0": {
+        "runtime": {
+          "Test work on the main block.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test work on the main block/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
